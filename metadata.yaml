@@ -1,0 +1,30 @@
+_repo: Round-About-a-Great-Estate_20528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jefferies, Richard
+    alias: Jefferies, John Richard
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '229'
+    url: http://www.gutenberg.org/2009/agents/229
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
+description: ''
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- England'
+- !lcc 'SK'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Description and travel'
+title: Round About a Great Estate
+url: http://www.gutenberg.org/ebooks/20528
